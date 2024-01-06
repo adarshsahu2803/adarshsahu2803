@@ -1,21 +1,88 @@
-<h1 align="center">Hi 👋, I'm Adarsh Sahu</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Adarsh</h1>
+<h3 align="center">A passionate Full Stack developer from India &#127470;&#127475</h3>
+<br><br>
 
-- 👨‍💻 All of my projects are available at [https://adarshsahu.netlify.app/](https://adarshsahu.netlify.app/)
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-- ⚡ Fun fact **I love coffee**
+- 🤝 I’m available for freelancing
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adarshsahu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adarshsahu/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/adarsh2803/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adarsh2803/" height="30" width="40" /></a>
+- 🌱 I’m currently learning React-Native
+
+- 💬 Ask me about **Reactjs**
+
+- 📫 How to reach me **adarshsahu1077@gmail.com**
+
+- 👨‍💻 All of my projects are available <a href="https://adarshsahu.netlify.app/" target="blank">here</a>
+<br><br><br><br>
+
+
+<h2>🛠️ Tech Stack</h2>
+
+
+<h3>Programming Languages</h3>
+
+<p>
+    <a href="https://github.com/adarshsahu2803"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/adarshsahu2803"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/adarshsahu2803"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+
+<h3>Web Dev Tools</h3>
+
+<p>
+    <a href="https://github.com/adarshsahu2803"><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/adarshsahu2803"><img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/adarshsahu2803"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="https://github.com/adarshsahu2803"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2314B3F4.svg?logo=tailwind-css&logoColor=white"></a>
+    <a href="https://github.com/adarshsahu2803"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=white"></a>
+    <a href="https://github.com/adarshsahu2803"><img alt="Redux" src="https://img.shields.io/badge/Redux-%23764ABC.svg?logo=redux&logoColor=white"></a>
+    <a href="https://github.com/adarshsahu2803"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white"></a>
+    <a href="https://github.com/adarshsahu2803"><img alt="Express" src="https://img.shields.io/badge/Express-%23404D59.svg"></a>
+    <a href="https://github.com/adarshsahu2803"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3>Databases</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshsahu2803&show_icons=true&locale=en&layout=compact" alt="adarshsahu2803" /></p>
+<p>
+    <a href="https://github.com/adarshsahu2803"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"></a>
+    <a href="https://github.com/adarshsahu2803"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white"></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshsahu2803&show_icons=true&locale=en" alt="adarshsahu2803" /></p>
+<h3>Cloud</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsahu2803&" alt="adarshsahu2803" /></p>
+<p>
+    <a href="https://github.com/Bouaskaoun"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E.svg?logo=amazon-aws&logoColor=white"></a>
+</p>
+</br>
+
+
+<h2>📊 GitHub Stats</h2>
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshsahu2803&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adarshsahu2803&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsahu2803&theme=dark" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/adarshsahu/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/adarshsahu2803">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/adarshsahu27">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+      </div>
+
+</p>
