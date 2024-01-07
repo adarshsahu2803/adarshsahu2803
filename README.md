@@ -1,6 +1,8 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
 <h3 align="center">A passionate Full Stack developer from India &#127470;&#127475</h3>
-<br><br>
+<br><br><br>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -15,7 +17,7 @@
 - 📫 How to reach me **adarshsahu1077@gmail.com**
 
 - 👨‍💻 All of my projects are available <a href="https://adarshsahu.netlify.app/" target="blank">here</a>
-<br><br><br><br>
+<br><br><br><br><br>
 
 
 <h2>🛠️ Tech Stack</h2>
