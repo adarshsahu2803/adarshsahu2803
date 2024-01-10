@@ -8,15 +8,15 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🤝 I’m available for freelancing
+- <h4>🤝 I’m available for freelancing</h4>
 
-- 🌱 I’m currently learning React-Native
+- <h4>🌱 I’m currently learning React-Native</h4>
 
-- 💬 Ask me about **Reactjs**
+- <h4>💬 Ask me about Reactjs</h4>
 
-- 📫 How to reach me **adarshsahu1077@gmail.com**
+- <h4>📫 How to reach me <a href="https://mailto:adarshsahu1077@gmail.com" target="blank">adarshsahu1077@gmail.com</a></h4>
 
-- 👨‍💻 All of my projects are available <a href="https://adarshsahu.netlify.app/" target="blank">here</a>
+- <h4>👨‍💻 All of my projects are available <a href="https://adarshsahu.netlify.app/" target="blank">here</a></h4>
 <br><br>
 
 
