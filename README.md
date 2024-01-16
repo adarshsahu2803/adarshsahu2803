@@ -17,7 +17,7 @@
 - <h3>📫 How to reach me <a href="https://mailto:adarshsahu1077@gmail.com" target="blank">adarshsahu1077@gmail.com</a></h3>
 
 - <h3>👨‍💻 All of my projects are available <a href="https://adarshsahu.netlify.app/" target="blank">here</a></h3>
-<br><br>
+<br>
 
 
 <h2>🛠️ Tools / Languages</h2>
@@ -42,7 +42,6 @@
     <a href="https://github.com/adarshsahu2803"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E.svg?logo=amazon-aws&logoColor=white"></a>
 </p>
-</br>
 
 
 <h2>📊 GitHub Stats</h2>
