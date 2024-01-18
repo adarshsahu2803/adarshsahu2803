@@ -12,7 +12,7 @@
 
 - <h3>🌱 I’m currently learning React-Native</h3>
 
-- <h3>💬 Ask me about Reactjs</h3>
+- <h3>💬 Ask me about ReactJS</h3>
 
 - <h3>📫 How to reach me <a href="https://mailto:adarshsahu1077@gmail.com" target="blank">adarshsahu1077@gmail.com</a></h3>
 
