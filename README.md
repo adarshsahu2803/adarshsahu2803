@@ -14,9 +14,9 @@
 
 - <h3>💬 Ask me about ReactJS</h3>
 
-- <h3>📫 How to reach me <a href="https://mailto:adarshsahu1077@gmail.com" target="blank"><u>adarshsahu1077@gmail.com</u></a></h3>
+- <h3>📫 How to reach me <a href="https://mailto:adarshsahu1077@gmail.com" target="_blank">adarshsahu1077@gmail.com</a></h3>
 
-- <h3>👨‍💻 All of my projects are available at <a href="https://adarshsahu.netlify.app/" target="blank"><u>My Portfolio</u></a></h3>
+- <h3>👨‍💻 All of my projects are available at <a href="https://adarshsahu.netlify.app/" target="_blank">My Portfolio</a></h3>
 <br>
 
 
