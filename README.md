@@ -35,6 +35,7 @@
     <a href="https://github.com/adarshsahu2803"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%2314B3F4.svg?logo=tailwind-css&logoColor=white"></a>
     <a href="https://github.com/adarshsahu2803"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=white"></a>
     <a href="https://github.com/adarshsahu2803"><img alt="Redux" src="https://img.shields.io/badge/Redux-%23764ABC.svg?logo=redux&logoColor=white"></a>
+	<a href="https://github.com/adarshsahu2803"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?logo=react&logoColor=white"></a>
     <a href="https://github.com/adarshsahu2803"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/adarshsahu2803"><img alt="Express" src="https://img.shields.io/badge/Express-%23404D59.svg"></a>
     <a href="https://github.com/adarshsahu2803"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white"></a>
