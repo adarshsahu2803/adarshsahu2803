@@ -54,7 +54,7 @@
 <br><br><br><br><br><br><br><br>
 
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
@@ -66,5 +66,6 @@
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/adarshsahu27">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
       </div>
+	<br><p align="center"><img src="https://komarev.com/ghpvc/?username=adarshsahu2803&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh" /></p>
 
 </p>
