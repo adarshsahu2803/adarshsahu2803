@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adarsh</h1>
+<h1 align="center">Hi 👋, I'm Adarsh Sahu</h1>
 <h3 align="center">Coding Chronicles: Unleashing Full Stack Wizardry with an Indian Touch 🧙‍♂️</h3>
 <br>
 
