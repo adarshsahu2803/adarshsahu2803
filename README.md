@@ -6,7 +6,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- <h3>🤝 I’m available for freelancing</h3>
+- <h3>🔭 I’m currently working on Stellar Blog App</h3>
 
 - <h3>🌱 I’m currently learning React-Native</h3>
 
