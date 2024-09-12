@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Sahu</h1>
-<h3 align="center">Coding Chronicles: Unleashing Full Stack Wizardry with an Indian Touch 🧙‍♂️</h3>
+<!-- <h3 align="center">Coding Chronicles: Unleashing Full Stack Wizardry with an Indian Touch 🧙‍♂️</h3>
 <br>
 
 <a target="_blank" align="center">
@@ -17,7 +17,7 @@
 - <h3>👨‍💻 All of my projects are available at <a href="https://adarshsahu.netlify.app/" target="_blank">My Portfolio</a></h3>
 <br>
 
-
+ -->
 <h2>🛠️ Tools / Languages</h2>
 
 <h4>These are the tools and languages that I have worked with and have experience using them.</h4>
